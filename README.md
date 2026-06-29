@@ -27,7 +27,7 @@ playwright.config.ts
 Clone the repository:
 
 ```bash
-git clone https://github.com/anikakyadari21/my-qa-assignment.git
+git clone https://github.com/Lakshmiprasad25/QA_TASK.git
 ```
 
 Install dependencies:
